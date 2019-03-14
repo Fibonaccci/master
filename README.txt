@@ -1,2 +1,3 @@
 This is Git
-This is my first status
+This is my first 
+my name is dongfei
